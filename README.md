@@ -2,7 +2,7 @@
 
 ## Objective
 
-This repository serves as a resource for exploring Artificial Intelligence (AI) through operational tools, educational materials, and practical implementations. It includes automation scripts, AI-driven applications, and tutorials designed to enhance understanding and application of AI concepts. The goal is to provide a hands-on learning experience while showcasing real-world AI use cases. Contributions and collaborations are encouraged to expand the repository’s depth and impact in AI development and education.
+This repository serves as a resource for exploring Artificial Intelligence (AI) through operational tools, educational materials, and practical implementations. It includes automation scripts, AI-driven applications, and tutorials designed to enhance understanding and application of AI concepts. The goal is to provide a hands-on learning experience while showcasing real-world AI use cases. 
 
 ### Skills Learned
 
