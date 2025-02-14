@@ -21,7 +21,9 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 - ChatGPT, Google Bard, Microsoft CoPilot - Prompt engineering
 
 ### Projects
-
+| Project Name                                  | Description                |
+|-----------------------------------------------|----------------------------|
+| <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Work in Progress			| Work in Progress |
 
 <!-- 
 ## Steps
