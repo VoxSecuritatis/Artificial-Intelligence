@@ -15,7 +15,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 
 ### Tools Used
 
-- AWS Bedrock - Foundational model
+- AWS Bedrock, Llama, Minstral - Foundational model
 - AWS SageMaker - Machine Learning
 - Other AWS Services - EC2 (for compute), S3 (for storage)
 - ChatGPT, Google Bard, Microsoft CoPilot - Prompt engineering
