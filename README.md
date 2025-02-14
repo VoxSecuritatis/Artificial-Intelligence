@@ -11,12 +11,15 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 - Machine Learning models and training – Building, training, and deploying machine learning models for AI-driven applications.
 - General AI Concepts – Understanding key principles, including neural networks, natural language processing, and automation.
 - AI Risk – Assessing and mitigating potential risks in AI deployment, including bias, security, and compliance challenges.
+- Prompt Engineering - The process of crafting and optimizing inputs to guide AI models toward accurate, relevant, and effective responses.
 
 ### Tools Used
 
 - AWS Bedrock - Foundational model
 - AWS SageMaker - Machine Learning
 - Other AWS Services - EC2 (for compute), S3 (for storage)
+- ChatGPT, Google Bard, Microsoft CoPilot - Prompt engineering
+
 <!-- 
 ## Steps
 Work in Progress
