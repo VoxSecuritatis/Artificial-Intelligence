@@ -23,7 +23,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 ### Projects
 | Project Name                                  | Description                |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Work in Progress			| Work in Progress |
+| <a href="https://github.com/VoxSecuritatis/Project-AI-PrivateInstanceGPT">Private GPT Instance			| The installation, testing, and use of a private instance of various LLMs.  Includes:  llama, Mistral 7B, Stable Diffusion, image recongition, and external document upload. |
 
 <!-- 
 ## Steps
