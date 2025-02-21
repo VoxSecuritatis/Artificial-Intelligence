@@ -29,6 +29,11 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/VoxSecuritatis/Project-AI-PrivateInstanceGPT">Private GPT Instance			| The installation, testing, and use of a private instance of various LLMs.  Includes:  llama, Mistral 7B, Stable Diffusion, image recongition, and external document upload. |
 | <a href="https://github.com/VoxSecuritatis/Project-AI-DocumentHandlingTextractPolly">Document Handling with Textract and Polly  | The implementation of document handling using AWS Textract and Polly to create an MP3 audio file from written text. |
+
+### Blog
+| Blog Post                                      | Description               |
+|------------------------------------------------|---------------------------|
+| <a href="https://github.com/VoxSecuritatis/Blog-AI-PromptEngineeringBestPractices">Prompt Engineering Best Practices and Examples  | Detailed prompt engineering best practices to create high quality prompts and return meaningful results.  Includes examples and a template to consistently reproduce quality results. |
 <!-- 
 ## Steps
 Work in Progress
