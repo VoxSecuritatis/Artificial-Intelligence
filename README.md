@@ -29,6 +29,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/VoxSecuritatis/Project-AI-PrivateInstanceGPT">Private GPT Instance			| The installation, testing, and use of a private instance of various LLMs.  Includes:  llama, Mistral 7B, Stable Diffusion, image recongition, and external document upload. |
 | <a href="https://github.com/VoxSecuritatis/Project-AI-DocumentHandlingTextractPolly">Document Handling with Textract and Polly  | The implementation of document handling using AWS Textract and Polly to create an MP3 audio file from written text. |
+| <a href="https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster">A tech jargon to plain lanuage translator which leverages LLM responses from ChatGPT, Mistral, and Grok for comparision. |
 
 ### Blog
 | Blog Post                                      | Description               |
