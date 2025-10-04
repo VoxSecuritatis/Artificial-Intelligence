@@ -1,4 +1,5 @@
 # Artificial Intelligence
+Published: 2025-02-21 | Updated: 2025-10-04
 
 ## Objective
 
