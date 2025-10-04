@@ -36,7 +36,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 |------------------------------------------------|---------------------------|
 | <a href="https://github.com/VoxSecuritatis/Blog-AI-PromptEngineeringBestPractices">Prompt Engineering Best Practices and Examples  | Detailed prompt engineering best practices to create high quality prompts and return meaningful results.  Includes examples and a template to consistently reproduce quality results. |
 | <a href="https://github.com/VoxSecuritatis/Blog-AI-BetterPromptEngineering">A Guide to Better Prompt Engineering | A short guide which provides contextual description of how to generate better prompts using prompt engineering. |
-| <a href="
+| <a href="https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/tree/main">Implications of Temperature on Response Creativity | A briefing and comparison between creativity factors based on the configurable LLM Temperature setting  |
 <!-- 
 ## Steps
 Work in Progress
