@@ -30,11 +30,11 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 ### Blog
 | **Blog Post**  | **Published**                  | **Description** |
 |----------------|--------------------------------|-----------------|
-| [Prompt Engineering Best Practices and Examples](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineeringBestPractices) | 2025-02-21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Detailed prompt engineering best practices to create high quality prompts and return meaningful results. |
-| [A Guide to Better Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-BetterPromptEngineering) | 2025-04-02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A short guide providing contextual descriptions of how to generate better prompts using prompt engineering. |
-| [Implications of Temperature on Response Creativity](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/tree/main) | 2025-10-03&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A briefing and comparison between precision and creative modes based on the configurable LLM temperature setting. |
-| [TTCROFTCE Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-TCROFTCE) | 2025-10-04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A prompt template and technique to elicit more meaningful responses from an LLM. |
-| [ChatGPT Prompt Interface Overview](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-ChatGPT_Interface) | 2025-10-05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A visual and functional overview of the ChatGPT input interface, including text, dictate, and voice modes. |
+| [Prompt Engineering Best Practices and Examples](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineeringBestPractices) | 2025-02-21 | Detailed prompt engineering best practices to create high quality prompts and return meaningful results. |
+| [A Guide to Better Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-BetterPromptEngineering) | 2025-04-02 | A short guide providing contextual descriptions of how to generate better prompts using prompt engineering. |
+| [Implications of Temperature on Response Creativity](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/tree/main) | 2025-10-03 | A briefing and comparison between precision and creative modes based on the configurable LLM temperature setting. |
+| [TTCROFTCE Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-TCROFTCE) | 2025-10-04 | A prompt template and technique to elicit more meaningful responses from an LLM. |
+| [ChatGPT Prompt Interface Overview](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-ChatGPT_Interface) | 2025-10-05 | A visual and functional overview of the ChatGPT input interface, including text, dictate, and voice modes. |
 | [ChatGPT Prompt Interface Commands](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-PromptCommandsCheatSheet) | 2025-10-05 | A cheat sheet of the commands to influence the behavior of the ChatGPT and other LLMs. |
 ---
 
