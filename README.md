@@ -16,14 +16,9 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 
 ### Tools Used
 
-- AWS Bedrock, Llama, Minstral - Foundational models
-- AWS SageMaker - Machine Learning
-- AWS Textract
-- AWS Polly
-- AWS Lambda
-- AWS S3
-- Other AWS Services - EC2 (for compute), S3 (for storage)
-- ChatGPT, Google Bard, Microsoft CoPilot - Prompt engineering
+- Cloud - AWS, GCP, streamlit, GitHub Codespaces
+- APIs - ChatGPT, Mistral, Grok
+- Prompt engineering
 
 ### Projects
 | Project Name                                  | Description                |
@@ -39,7 +34,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | [A Guide to Better Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-BetterPromptEngineering) | —&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A short guide providing contextual descriptions of how to generate better prompts using prompt engineering. |
 | [Implications of Temperature on Response Creativity](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/tree/main) | —&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A briefing and comparison between precision and creative modes based on the configurable LLM temperature setting. |
 | [TCROFTCE Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-TCROFTCE) | —&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A prompt template and technique to elicit more meaningful responses from an LLM. |
-| [ChatGPT Prompt Interface Overview](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-ChatGPT_Interface) | 2025-10-05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A visual and functional overview of the ChatGPT input interface, including text, dictate, and voice modes. |
+| [ChatGPT Prompt Interface Overview](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-ChatGPT_Interface) | 2025-10-05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A visual and functional overview of the ChatGPT input interface, including text, dictate, and voice modes. |
 
 ---
 
