@@ -28,7 +28,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | <a href="https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster">Tech Jargon Buster | A tech jargon to plain lanuage translator which leverages LLM responses from ChatGPT, Mistral, and Grok for comparision. |
 
 ### Blog
-| **Blog Post**  | **Published** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Description** |
+| **Blog Post**  | **Published**                  | **Description** |
 |----------------|--------------------------------|-----------------|
 | [Prompt Engineering Best Practices and Examples](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineeringBestPractices) | 2025-02-21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Detailed prompt engineering best practices to create high quality prompts and return meaningful results. |
 | [A Guide to Better Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-BetterPromptEngineering) | 2025-04-02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | A short guide providing contextual descriptions of how to generate better prompts using prompt engineering. |
