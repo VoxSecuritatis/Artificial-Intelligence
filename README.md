@@ -1,5 +1,5 @@
-# Artificial Intelligence
-Published: 2025-02-21 | Updated: 2025-10-05
+# Artificial Intelligence Portfolio
+Published: 2025-02-21 | Updated: 2025-10-06
 
 ## Objective
 
