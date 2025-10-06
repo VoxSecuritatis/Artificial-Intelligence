@@ -36,6 +36,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | [TTCROFTCE Prompt Engineering](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-TCROFTCE) | 2025-10-04 | A prompt template and technique to elicit more meaningful responses from an LLM. |
 | [ChatGPT Prompt Interface Overview](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-ChatGPT_Interface) | 2025-10-05 | A visual and functional overview of the ChatGPT input interface, including text, dictate, and voice modes. |
 | [ChatGPT Prompt Interface Commands](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-PromptCommandsCheatSheet) | 2025-10-05 | A cheat sheet of the commands to influence the behavior of the ChatGPT and other LLMs. |
+
 ---
 
 © 2025 Brock Frary. All rights reserved.
