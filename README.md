@@ -26,7 +26,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | <a href="https://github.com/VoxSecuritatis/Project-AI-PrivateInstanceGPT">Private GPT Instance			| The installation, testing, and use of a private instance of various LLMs.  Includes:  llama, Mistral 7B, Stable Diffusion, image recongition, and external document upload. |
 | <a href="https://github.com/VoxSecuritatis/Project-AI-DocumentHandlingTextractPolly">Document Handling with Textract and Polly  | The implementation of document handling using AWS Textract and Polly to create an MP3 audio file from written text. |
 | <a href="https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster">Tech Jargon Buster | A tech jargon to plain lanuage translator which leverages LLM responses from ChatGPT, Mistral, and Grok for comparision. |
-| <a href="(https://github.com/VoxSecuritatis/Project-Python-AI-Transcriber)">Transcriber | Takes MP3 files, utilizes AI to transcribe them and then generate student notes |
+| <a href="https://github.com/VoxSecuritatis/Project-Python-AI-Transcriber">Transcriber | Takes MP3 files, utilizes AI to transcribe them and then generate student notes |
 
 **Transcriber** is an AI-powered audio assistant that connects directly to **ChatGPT** through the OpenAI API.  It intelligently handles large MP3 recordings by automatically splitting them into manageable segments, sending each one to the language model for accurate transcription.  
 
