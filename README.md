@@ -28,10 +28,6 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | <a href="https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster">Tech Jargon Buster | A tech jargon to plain lanuage translator which leverages LLM responses from ChatGPT, Mistral, and Grok for comparision. |
 | <a href="https://github.com/VoxSecuritatis/Project-Python-AI-Transcriber">Transcriber | Takes MP3 files, utilizes AI to transcribe them and then generate student notes |
 
-**Transcriber** is an AI-powered audio assistant that connects directly to **ChatGPT** through the OpenAI API.  It intelligently handles large MP3 recordings by automatically splitting them into manageable segments, sending each one to the language model for accurate transcription.  
-
-Once all parts are processed, **Transcriber** seamlessly merges them into a single, polished master transcript — then goes a step further by generating **concise, structured study notes** from the content.  In just one run, you receive both a **complete transcript** and **ready-to-use notes**, turning hours of audio into clear, insightful summaries for students, professionals, and lifelong learners alike.  
-
 ### Blog
 | **Blog Post**  | **Published**                  | **Description** |
 |----------------|--------------------------------|-----------------|
