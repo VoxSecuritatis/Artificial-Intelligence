@@ -27,6 +27,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | <a href="https://github.com/VoxSecuritatis/Project-AI-DocumentHandlingTextractPolly">Document Handling with Textract and Polly  | The implementation of document handling using AWS Textract and Polly to create an MP3 audio file from written text. |
 | <a href="https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster">Tech Jargon Buster | A tech jargon to plain lanuage translator which leverages LLM responses from ChatGPT, Mistral, and Grok for comparision. |
 | <a href="https://github.com/VoxSecuritatis/Project-Python-AI-Transcriber">Transcriber | Takes MP3 files, utilizes AI to transcribe them and then generate student notes |
+| <a href="https://github.com/VoxSecuritatis/Project-AI-PBoD">Personal Board of Directors | A virtual board of directors with 60+ personas of leaders throughout history from Budda to Branson, from Putin to Pope Francis - an AI chatbot |
 
 ### Blog
 | **Blog Post**  | **Published**                  | **Description** |
