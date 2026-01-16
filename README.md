@@ -1,5 +1,5 @@
 # Artificial Intelligence Portfolio
-Published: 2025-02-21 | Updated: 2025-12-14
+Published: 2025-02-21 | Updated: 2026-01-16
 
 ## Objective
 
@@ -13,6 +13,8 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 - General AI Concepts – Understanding key principles, including neural networks, natural language processing, and automation.
 - AI Risk – Assessing and mitigating potential risks in AI deployment, including bias, security, and compliance challenges.
 - Prompt Engineering - The process of crafting and optimizing inputs to guide AI models toward accurate, relevant, and effective responses.
+- Neural Networks - Building, testing, and implementing Neural Networks
+- Generative Adversarial Networks (GANs) - Building, testing, and implementing GANs
 
 ### Tools Used
 
