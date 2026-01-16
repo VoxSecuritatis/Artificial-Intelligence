@@ -29,6 +29,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | <a href="https://github.com/VoxSecuritatis/Project-Python-AI-Transcriber">Transcriber | Takes MP3 files, utilizes AI to transcribe them and then generate student notes |
 | <a href="https://github.com/VoxSecuritatis/Project-AI-PBoD">Personal Board of Directors | A virtual board of directors with 60+ personas of leaders throughout history from Budda to Branson, from Putin to Pope Francis - an AI chatbot |
 | <a href="https://github.com/VoxSecuritatis/project-ai-news-scraper">AI News Scraper | An bot to scrape meaningful daily news articles, tutorials, and videos then summarize them and send an email from a curated list of websites |
+| <a href="https://github.com/VoxSecuritatis/project-ai-ANN-and-GAN">Artifical Neural Networks (ANN) and Generative Adversarial Networks (GANs) | A project to impelemnt end-to-end Neural Networks and a GAN based on the MNIST handwritten digit data set |
 
 ### Blog
 | **Blog Post**  | **Published**                  | **Description** |
