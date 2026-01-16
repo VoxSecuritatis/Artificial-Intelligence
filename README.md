@@ -21,6 +21,8 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 - Cloud - AWS, GCP, streamlit, GitHub Codespaces
 - APIs - ChatGPT, Mistral, Grok
 - Prompt engineering
+- Python - Including AI libraries (NumPy, Pandas, scikit-learn, TensorFlow, Keras)
+- IDEs - Google Colab, VSCode
 
 ### Projects
 | Project Name                                  | Description                |
