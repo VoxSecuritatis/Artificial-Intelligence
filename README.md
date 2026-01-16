@@ -45,4 +45,4 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 
 ---
 
-© 2025 Brock Frary. All rights reserved.
+© 2026 Brock Frary. All rights reserved.
