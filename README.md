@@ -46,7 +46,7 @@ This repository serves as a resource for exploring Artificial Intelligence (AI) 
 | [ChatGPT Prompt Interface Commands](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-PromptCommandsCheatSheet) | 2025-10-05 | A cheat sheet of the commands to influence the behavior of the ChatGPT and other LLMs. |
 | [ChatGPT 5 Response API Guide](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-OpenAI-Response-API-Guide) | 2025-10-18 | A guide to understanding the use of the Response API and parameters used by the API. |
 | [ChatGPT 5 Emojis & Icons Reference Guide](https://github.com/VoxSecuritatis/Blog-AI-LLM-ChatGPT-5-Emojis-Icons) | 2025-10-19 | A reference to all emojis and icons used by ChatGPT 5 |
-| [ChatGPT 5 Emojis & Icons Reference Guide](https://github.com/VoxSecuritatis/Hugging_Face-Best_Model_Selection)) | 2026-02-14 | Hugging Face Model Selection Best Practices & Model Selection Checklist |
+| [Hugging Face Model Selection Best Practices](https://github.com/VoxSecuritatis/Hugging_Face-Best_Model_Selection) | 2026-02-14 | Hugging Face Model Selection Best Practices & Model Selection Checklist |
 
 ---
 
